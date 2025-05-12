@@ -2,7 +2,7 @@
   "name": "CRD-MD",
   "description": "CRD in powerful WhatsApp Bot in Sri Lanka 🐣🪄💖",
   "logo": "https://i.ibb.co/bMnH46kh/IMG-20250511-WA0010.jpg",
-  "keywords": [""bot"],
+  "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
