@@ -30,7 +30,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO 😇
 ```
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF0000&center=true&width=810&height=100&lines=+THANKS+FOR+CHOOSING+OUR+BOT;CRD-SONG-DOWNLOAD-MD;MULTI+DEVICE+WHATSAPP+BOT;POWERED+BY+BOT+CREATE;CYBER+RED+DRAGONS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF0000&center=true&width=810&height=100&lines=+TTHANKS+FOR+CHOOSING+OUR+BOT;CRD-SONG-DOWNLOAD-MD;MULTI+DEVICE+WHATSAPP+BOT;POWERED+BY+BOT+CREATE;CYBER+RED+DRAGONS" alt="Typing SVG" /></a>
   </p>
   
 --- 
