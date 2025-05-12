@@ -35,7 +35,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO 😇
   
 --- 
 
-<a><img src='https://i.ibb.co/PZ3qrxRM/IMG-20250511-WA0054.jpg'/></a>
+<a><img src='https://i.ibb.co/pBGd8x2x/images.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
