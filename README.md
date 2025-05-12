@@ -88,7 +88,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO 😇
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FDUMIYH-OFC-KOD%2FNEXUS-MD-BOT' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/DUMIYH-OFC-KOD/CRD-SONG-DL' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 
   
