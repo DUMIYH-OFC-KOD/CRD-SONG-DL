@@ -196,7 +196,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 return await conn.sendMessage(
                     from,
                     {
-                        video: { url: 'https://files.catbox.moe/6qfmm4.mp4' },
+                        video: { url: 'https://github.com/Chamijd/KHAN-DATA/raw/refs/heads/main/logo/VID-20250508-WA0031(1).mp4'' },
                         mimetype: 'video/mp4', // Correct property name
                         ptv: true // Set PTV to true for WhatsApp video message
                     },
