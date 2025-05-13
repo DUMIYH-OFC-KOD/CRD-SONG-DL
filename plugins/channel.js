@@ -3,7 +3,7 @@ const { cmd } = require('../lib/command');
 cmd({
     pattern: "channelreact",
     alias: ["chr"],
-    react: "✅",
+    react: "🥶",
     use: ".channelreact *<query,page>*",
     desc: ".",
     category: "other",
