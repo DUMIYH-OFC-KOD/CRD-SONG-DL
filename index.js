@@ -140,26 +140,7 @@ const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream
             console.log('CRD | INSTALLED ✅')
             console.log('CRD | BOT CONNECTED ✅')
 await conn.sendMessage(config.OWNER_NUMBER + "@s.whatsapp.net", {
-text: "*❒ ❲ CRD MD SUCCESSFUL CONNECTED  🤦 TYPE .menu AND GET BOT MENU LIST 😘 THIS IS CYBER RED DRAGON TM PROJECT 🌝🖤 ❳*
-
-*❒ ❲ BOT USE කරලා කට්ටියට SHARE කරන්න 😘 🖤  ❳*
-
-*🌎 𝐵ᴏᴛ 𝐶ᴏᴅᴇʀs 🌎*
-
-*☭⃞ 𝑪ᴿᴰ  ⛚  𝐶ʏʙᴇʀ 𝐷ᴜᴍɪʏᴀ 𝑂ꜰᴄ*
-*☭⃞ 𝑪ᴿᴰ  ⛚  𝐶ʏʙᴇʀ 𝐴ᴀᴅʜɪ 𝑂ꜰᴄ*
-*☭⃞ 𝑪ᴿᴰ  ⛚  𝐶ʏʙᴇʀ 𝐻ɪʀᴜꜱʜᴀɴ 𝑂ꜰᴄ*
-*☭⃞ 𝑪ᴿᴰ  ⛚  𝐶ʏʙᴇʀ 𝑃ʀɪɴᴄᴇ 𝑂ꜰᴄ*
-*☭⃞ 𝑪ᴿᴰ  ⛚  𝐶ʏʙᴇʀ 𝑆ᴀᴛʜɪꜱʜᴋᴀ 𝑂ꜰᴄ*
-*☭⃞ 𝑪ᴿᴰ  ⛚  𝐶ʏʙᴇʀ 𝐽ᴀɴɪʏᴀ 𝑂ꜰᴄ*
-*☭⃞ 𝑪ᴿᴰ  ⛚  𝐶ʏʙᴇʀ 𝑅ᴀsɪʏᴀ 𝑂ꜰᴄ*
-*☭⃞ 𝑪ᴿᴰ  ⛚  𝐶ʏʙᴇʀ 𝑆ʜᴀᴅᴏᴡ 𝑂ғᴄ*
-
-*❒ ❲මේ බොට් හැදුවෙ CYBER RED DRAGON TM එකෙන්  🤦 TM LEADER NUMBER ඇති MASSEGE එකක් දාන්න 😘 අපෙ  බොට් ගැන කියන් යමු 🌝🖤 ❳*
-
-https://wa.me/+94779444547?text=_ꜱᴏɴɢ-ᴍᴅ-ʙᴏᴛ 🗿🫰
-
-> *ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ʀᴇᴅ ᴅʀᴀɢᴏɴ ᴛᴍ*",
+text: "CRD MD SUCCESSFUL CONNECTED  🤦 TYPE .menu AND GET BOT MENU LIST 😘 THIS IS CYBER RED DRAGON TM PROJECT 🌝🖤\n\nBOT USE කරලා කට්ටියට SHARE කරන්න 😘 🖤",
 contextInfo: {
 externalAdReply: {
 title: "💆‍♀️ CRD SONG DL MD 💆‍♀️",	
