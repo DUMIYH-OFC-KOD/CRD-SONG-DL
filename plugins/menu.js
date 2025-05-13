@@ -190,6 +190,24 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             },
             { quoted: mek }
         );
+// Function to send menu video with timeout
+        const sendMenuVideo = async () => {
+            try {
+                return await conn.sendMessage(
+                    from,
+                    {
+                        video: { url: 'https://files.catbox.moe/6qfmm4.mp4' },
+                        mimetype: 'video/mp4', // Correct property name
+                        ptv: true // Set PTV to true for WhatsApp video message
+                    },
+                    { quoted: mek }
+                );
+            } catch (e) {
+                console.log('Video send failed, continuing without it:', e);
+                throw e; // Let the error propagate to fallback to image
+            }
+        };
+
 
         // Send audio
         await conn.sendMessage(from, {
@@ -203,4 +221,3 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         reply(`${e}`);
     }
 });
-
